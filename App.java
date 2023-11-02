@@ -20,6 +20,6 @@ public class App {
 
     public static  int F(int x){ 
         int y =3*x*x + 2*x + 1;
-        return y;
+        return y;blablabla 
     }
 }
